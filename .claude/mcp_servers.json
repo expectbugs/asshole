@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "n8n": {
+      "command": "n8n-mcp",
+      "args": ["--url", "http://localhost:5678"],
+      "description": "MCP server for n8n workflow automation",
+      "enabled": true
+    }
+  }
+}
